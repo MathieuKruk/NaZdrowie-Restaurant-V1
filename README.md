@@ -1,4 +1,4 @@
-# Restaurant website
+# Restaurant website:
 
 This exercise consist in creating a webpage for a restaurant using Bootstrap.
 
