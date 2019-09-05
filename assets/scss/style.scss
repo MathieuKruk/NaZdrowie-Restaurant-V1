@@ -1,0 +1,95 @@
+body {
+    background-image: url("/assets/img/bg3.jpg");
+    background-size: center;
+    background-position-x: center;
+    background-repeat: repeat;
+    overflow-x: hidden;
+}
+
+header {
+    position: sticky;
+    background-color: rgba(0, 0, 0, 0.836); 
+    color: whitesmoke;
+    h1 {
+        font-size: 18pt;
+    } 
+    .jumbotron {
+        background-color: rgba(0, 0, 0, 0.027);
+        p {
+            text-align: justify;
+            padding-left: 1rem;
+            padding-right: 1rem;
+            padding-top: 1rem
+        }
+    } 
+}
+
+main {
+    background-color: rgba(128, 128, 128, 0.247);
+    p {
+        background-color: rgba(0, 0, 0, 0.836);
+        color: whitesmoke;
+        font-size: 13pt;
+    }
+    .placement_nav {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        padding-left: 2rem;
+        padding-right: 2rem;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.884);
+    color: whitesmoke;
+    h1 {
+        padding-left: 2rem;
+        padding-top: 1rem;
+        font-size: 15pt;
+    }
+    p {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        font-size: 10pt;
+    }
+    .placement_abu {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.836);
+    p {
+        color: whitesmoke;
+    }
+    margin-top: 1rem;
+}
+
+span {
+    color: red;
+}
+
+.col_grey {
+    background-color: grey;
+}
+
+a:hover {
+    color: rgb(110, 4, 0);
+}
+
+a:visited {
+    color: rgb(206, 94, 94); 
+}
+
+a:active {
+    color: darkred;
+}
