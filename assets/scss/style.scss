@@ -1,95 +1,235 @@
+//* HOMEPAGE *//
+
 body {
-    background-image: url("/assets/img/bg3.jpg");
-    background-size: center;
-    background-position-x: center;
-    background-repeat: repeat;
-    overflow-x: hidden;
+    background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
-header {
+nav {
+    position: relative;
     position: sticky;
-    background-color: rgba(0, 0, 0, 0.836); 
-    color: whitesmoke;
-    h1 {
-        font-size: 18pt;
-    } 
-    .jumbotron {
-        background-color: rgba(0, 0, 0, 0.027);
-        p {
-            text-align: justify;
-            padding-left: 1rem;
-            padding-right: 1rem;
-            padding-top: 1rem
-        }
-    } 
 }
-
-main {
-    background-color: rgba(128, 128, 128, 0.247);
-    p {
-        background-color: rgba(0, 0, 0, 0.836);
+.jumbotron {
+    background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 12rem;
+    width: 100%;
+    margin-bottom: 1px;
+    .text {
+        background-color: rgba(0, 0, 0, 0.829);
+        border: 3px solid whitesmoke;
+        border-radius: 10% / 15%;
         color: whitesmoke;
-        font-size: 13pt;
-    }
-    .placement_nav {
-        padding-top: 1rem;
-        padding-bottom: 1rem;
-        padding-left: 2rem;
-        padding-right: 2rem;
-        margin-top: 5rem;
-        margin-bottom: 5rem;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        padding: 1rem;
     }
 }
-
-section {
-    background-color: rgba(0, 0, 0, 0.884);
+.suggestion {
+    background-color: rgba(0, 0, 0, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height:  8rem;
     color: whitesmoke;
-    h1 {
-        padding-left: 2rem;
+    button {
+        height: 5rem;
+    }
+    h4 {
         padding-top: 1rem;
-        font-size: 15pt;
     }
-    p {
-        padding-left: 1rem;
-        padding-right: 1rem;
+    img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3rem;
+        border: 3px solid whitesmoke;
+    }
+}
+.events {
+    background-color: rgba(0, 0, 0, 0.829);
+    color: whitesmoke;
+    padding: 5px;
+    .event_text {
+        text-align: justify;
+        padding: 10px;
+    }
+    img {
+        height:110%;
+        width: 90%;
+        border: 3px solid whitesmoke;
+        margin: 10px;
+    }
+}
+.social {
+    background-color: rgba(0, 0, 0, 0.829);
+    color: whitesmoke;
+    line-height:  7rem;
+    .fa-tripadvisor {
+        font-size: 40px;
+        width: 60px !important;
+    }
+    .fa-facebook-official {
+        font-size: 40px;
+        width: 60px !important;
+    }
+    .fa-twitter-square {
+        font-size: 40px;
+        width: 60px !important;
+    }
+    .fa-instagram {
+        font-size: 40px;
+        width: 60px !important;
+    }
+}
+.copyright {
+    background-color: rgba(0, 0, 0, 0.829);
+    color: whitesmoke;
+    line-height:  2.5rem;
+    width: 100%;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    margin-top: 2rem;
+}
+
+//* RESTAURANT PAGE *//
+
+.aboutus {
+    background-color: rgba(0, 0, 0, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    button {
+        height: 5rem;
+    }
+    h4 {
         padding-top: 1rem;
-        padding-bottom: 1rem;
-        font-size: 10pt;
     }
-    .placement_abu {
+    h6 {
+        text-decoration: underline;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3rem;
+        border: 3px solid whitesmoke;
+    }
+    .text {
+        text-align: justify;
+    }
+}
+
+.map {
+    background-color: rgba(0, 0, 0, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    text-align: center;
+    h4 {
         padding-top: 1rem;
-        padding-bottom: 1rem;
     }
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-}
-
-footer {
-    background-color: rgba(0, 0, 0, 0.836);
-    p {
-        color: whitesmoke;
+    iframe {
+        border: 3px solid whitesmoke;
     }
-    margin-top: 1rem;
+}
+.map-container-3{
+        overflow:hidden;
+        padding-bottom:56.25%;
+        position:relative;
+        height:0;
+}
+.map-container-3 iframe{
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
 }
 
-span {
-    color: red;
+
+//* MENU PAGE *//
+
+.menu {
+    background-color: rgba(0, 0, 0, 0.829);
+    color: whitesmoke;
+    padding: 5px;
+    .menu_text {
+        text-align: justify;
+        padding: 10px;
+    }
+    h4 {
+        padding: 1rem;
+    }
+    h6 {
+        text-align: center;
+        color: blue;
+        padding: 10px;
+    }
+    span {
+        color: blue;
+    }
+    img {
+        height:110%;
+        width: 90%;
+        border: 3px solid whitesmoke;
+        margin: 10px;
+    }
+    ul {
+        margin: 10px;
+    }
 }
 
-.col_grey {
-    background-color: grey;
+//* GALLERIE *//
+
+.pictures {
+    background-color: rgba(0, 0, 0, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height:  8rem;
+    color: whitesmoke;
+    button {
+        height: 5rem;
+    }
+    h4 {
+        padding-top: 1rem;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3rem;
+        border: 3px solid whitesmoke;
+    }
 }
 
-a:hover {
-    color: rgb(110, 4, 0);
-}
+//* Contact *//
 
-a:visited {
-    color: rgb(206, 94, 94); 
-}
-
-a:active {
-    color: darkred;
+.contact {
+    background-color: rgba(0, 0, 0, 0.829);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+    h4 {
+        padding-top: 1rem;
+    }
+    h6 {
+        text-decoration: underline;
+    }
+    img {
+        height: 100%;
+        width: 100%;
+        margin-bottom: 3rem;
+        border: 3px solid whitesmoke;
+    }
+    .text {
+        text-align: justify;
+    }
+    button {
+        width: 7rem;
+        padding: 1rem;
+        margin: 1rem;
+    }
 }

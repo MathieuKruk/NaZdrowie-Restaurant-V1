@@ -1,106 +1,266 @@
 body {
-  background-image: url("/assets/img/bg3.jpg");
-  background-size: center;
-  background-position-x: center;
-  background-repeat: repeat;
-  overflow-x: hidden;
+  background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-header {
+nav {
+  position: relative;
   position: -webkit-sticky;
   position: sticky;
-  background-color: rgba(0, 0, 0, 0.836);
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 12rem;
+  width: 100%;
+  margin-bottom: 1px;
+}
+
+.jumbotron .text {
+  background-color: rgba(0, 0, 0, 0.829);
+  border: 3px solid whitesmoke;
+  border-radius: 10% / 15%;
+  color: whitesmoke;
+  padding: 1rem;
+}
+
+.suggestion {
+  background-color: rgba(0, 0, 0, 0.829);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 8rem;
   color: whitesmoke;
 }
 
-header h1 {
-  font-size: 18pt;
+.suggestion button {
+  height: 5rem;
 }
 
-header .jumbotron {
-  background-color: rgba(0, 0, 0, 0.027);
+.suggestion h4 {
+  padding-top: 1rem;
 }
 
-header .jumbotron p {
+.suggestion img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 3rem;
+  border: 3px solid whitesmoke;
+}
+
+.events {
+  background-color: rgba(0, 0, 0, 0.829);
+  color: whitesmoke;
+  padding: 5px;
+}
+
+.events .event_text {
   text-align: justify;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 1rem;
+  padding: 10px;
 }
 
-main {
-  background-color: rgba(128, 128, 128, 0.247);
+.events img {
+  height: 110%;
+  width: 90%;
+  border: 3px solid whitesmoke;
+  margin: 10px;
 }
 
-main p {
-  background-color: rgba(0, 0, 0, 0.836);
+.social {
+  background-color: rgba(0, 0, 0, 0.829);
   color: whitesmoke;
-  font-size: 13pt;
+  line-height: 7rem;
 }
 
-main .placement_nav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  padding-left: 2rem;
-  padding-right: 2rem;
-  margin-top: 5rem;
-  margin-bottom: 5rem;
-  margin-left: 1rem;
-  margin-right: 1rem;
+.social .fa-tripadvisor {
+  font-size: 40px;
+  width: 60px !important;
 }
 
-section {
-  background-color: rgba(0, 0, 0, 0.884);
+.social .fa-facebook-official {
+  font-size: 40px;
+  width: 60px !important;
+}
+
+.social .fa-twitter-square {
+  font-size: 40px;
+  width: 60px !important;
+}
+
+.social .fa-instagram {
+  font-size: 40px;
+  width: 60px !important;
+}
+
+.copyright {
+  background-color: rgba(0, 0, 0, 0.829);
   color: whitesmoke;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  line-height: 2.5rem;
+  width: 100%;
 }
 
-section h1 {
-  padding-left: 2rem;
-  padding-top: 1rem;
-  font-size: 15pt;
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  margin-top: 2rem;
 }
 
-section p {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  font-size: 10pt;
-}
-
-section .placement_abu {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
-footer {
-  background-color: rgba(0, 0, 0, 0.836);
-  margin-top: 1rem;
-}
-
-footer p {
+.aboutus {
+  background-color: rgba(0, 0, 0, 0.829);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: whitesmoke;
 }
 
-span {
-  color: red;
+.aboutus button {
+  height: 5rem;
 }
 
-.col_grey {
-  background-color: grey;
+.aboutus h4 {
+  padding-top: 1rem;
 }
 
-a:hover {
-  color: #6e0400;
+.aboutus h6 {
+  text-decoration: underline;
 }
 
-a:visited {
-  color: #ce5e5e;
+.aboutus img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 3rem;
+  border: 3px solid whitesmoke;
 }
 
-a:active {
-  color: darkred;
+.aboutus .text {
+  text-align: justify;
+}
+
+.map {
+  background-color: rgba(0, 0, 0, 0.829);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.map h4 {
+  padding-top: 1rem;
+}
+
+.map iframe {
+  border: 3px solid whitesmoke;
+}
+
+.map-container-3 {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-container-3 iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.menu {
+  background-color: rgba(0, 0, 0, 0.829);
+  color: whitesmoke;
+  padding: 5px;
+}
+
+.menu .menu_text {
+  text-align: justify;
+  padding: 10px;
+}
+
+.menu h4 {
+  padding: 1rem;
+}
+
+.menu h6 {
+  text-align: center;
+  color: blue;
+  padding: 10px;
+}
+
+.menu span {
+  color: blue;
+}
+
+.menu img {
+  height: 110%;
+  width: 90%;
+  border: 3px solid whitesmoke;
+  margin: 10px;
+}
+
+.menu ul {
+  margin: 10px;
+}
+
+.pictures {
+  background-color: rgba(0, 0, 0, 0.829);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  line-height: 8rem;
+  color: whitesmoke;
+}
+
+.pictures button {
+  height: 5rem;
+}
+
+.pictures h4 {
+  padding-top: 1rem;
+}
+
+.pictures img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 3rem;
+  border: 3px solid whitesmoke;
+}
+
+.contact {
+  background-color: rgba(0, 0, 0, 0.829);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+.contact h4 {
+  padding-top: 1rem;
+}
+
+.contact h6 {
+  text-decoration: underline;
+}
+
+.contact img {
+  height: 100%;
+  width: 100%;
+  margin-bottom: 3rem;
+  border: 3px solid whitesmoke;
+}
+
+.contact .text {
+  text-align: justify;
+}
+
+.contact button {
+  width: 7rem;
+  padding: 1rem;
+  margin: 1rem;
 }
 /*# sourceMappingURL=style.css.map */
