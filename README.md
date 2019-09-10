@@ -1,6 +1,6 @@
 # Restaurant website:
 
-3rd week at BeCode:
+<p align="center">3rd week at BeCode:</p>
 
 This exercise consist in creating a webpage for a restaurant using Bootstrap.
 
