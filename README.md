@@ -4,7 +4,7 @@
 
 This exercise consist in creating a webpage for a restaurant using Bootstrap.
 
-The website must contain:
+<h2>The website must contain:</h2>
 <ul>
   <li>One Welcome page with one Jumbotron and two panels to show news (promo, events, etc…​).</li><br>
   <li>One Menu page with the restaurant menu in the form of a grouped list with badges.</li><br>
@@ -13,6 +13,10 @@ The website must contain:
   <li>One Contact page with a contact form containing the firstname, lastname, email, subject of the message (a drop-down list with multiple 
   options), an area for the message itself and a send button with an icon. Each entry as a title in a semantically correct tag.</li>
 </ul>
+
+<br>
+<h2>The website is actually responsive for smartphone and tablets only, large display in progress.</h2>
+</br>
 
 <h2>Here you'll find all the urls of free rights pictures that i have used</h2>
 <ul>
