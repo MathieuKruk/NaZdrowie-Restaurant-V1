@@ -122,7 +122,7 @@ nav {
 }
 
 .aboutus .d-block {
-  height: 250px;
+  height: 350px;
 }
 
 .aboutus button {
@@ -149,6 +149,29 @@ nav {
   padding: 2rem;
 }
 
+table {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border: white 3px solid;
+}
+
+table th {
+  border: white 2px solid;
+  background-color: rgba(255, 228, 196, 0.705);
+}
+
+table tr, table td {
+  border: white 1px solid;
+}
+
+table th, table td {
+  padding: 15px;
+}
+
+table .days {
+  background-color: rgba(128, 128, 128, 0.884);
+}
+
 .map {
   background-color: rgba(0, 0, 0, 0.829);
   background-position: center;
@@ -164,23 +187,8 @@ nav {
   text-align: center;
 }
 
-.map iframe {
-  border: 3px solid blue;
-}
-
-.map-container-3 {
-  overflow: hidden;
-  padding-bottom: 56.25%;
-  position: relative;
-  height: 0;
-}
-
-.map-container-3 iframe {
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
+.map .container {
+  margin-bottom: 2rem;
 }
 
 .menu {
