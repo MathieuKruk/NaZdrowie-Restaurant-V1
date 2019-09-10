@@ -15,7 +15,7 @@ This exercise consist in creating a webpage for a restaurant using Bootstrap.
 </ul>
 
 <br>
-<h2>The website is actually responsive for smartphone and tablets only, large display in progress.</h2>
+<h2>!!!The website is actually responsive for <ul>smartphone</ul> and tablets only, large display in progress!!!</h2>
 </br>
 
 <h2>Pictures links list:</h2>
