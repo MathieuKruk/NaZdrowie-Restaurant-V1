@@ -1,8 +1,9 @@
 body {
-  background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-image: url("/assets/img/bg_body.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: 'B612', sans-serif;
 }
 
 nav {
@@ -12,7 +13,7 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("https://images.unsplash.com/photo-1454903466480-22a7762b0c50?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+  background-image: url("/assets/img/bg_jumbotron.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,11 +23,11 @@ nav {
 }
 
 .jumbotron .text {
-  background-color: rgba(0, 0, 0, 0.829);
+  background-color: rgba(0, 0, 0, 0.753);
   border: 3px solid whitesmoke;
   border-radius: 10% / 15%;
   color: whitesmoke;
-  padding: 1rem;
+  padding: 0.5rem;
 }
 
 .suggestion {
@@ -43,7 +44,7 @@ nav {
 }
 
 .suggestion h4 {
-  padding-top: 1rem;
+  margin-top: 2rem;
 }
 
 .suggestion img {
@@ -61,7 +62,11 @@ nav {
 
 .events .event_text {
   text-align: justify;
-  padding: 10px;
+  padding: 20px;
+}
+
+.events h5 {
+  padding: 2rem 2rem 2rem 0rem;
 }
 
 .events img {
@@ -113,7 +118,11 @@ nav {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: whitesmoke;
+  color: #f5f5f5;
+}
+
+.aboutus .d-block {
+  height: 250px;
 }
 
 .aboutus button {
@@ -137,6 +146,7 @@ nav {
 
 .aboutus .text {
   text-align: justify;
+  padding: 2rem;
 }
 
 .map {
@@ -150,10 +160,12 @@ nav {
 
 .map h4 {
   padding-top: 1rem;
+  margin: 1rem;
+  text-align: center;
 }
 
 .map iframe {
-  border: 3px solid whitesmoke;
+  border: 3px solid blue;
 }
 
 .map-container-3 {
@@ -180,20 +192,28 @@ nav {
 .menu .menu_text {
   text-align: justify;
   padding: 10px;
+  color: white;
 }
 
 .menu h4 {
   padding: 1rem;
+  text-align: center;
+  color: blue;
 }
 
 .menu h6 {
   text-align: center;
-  color: blue;
+  color: black;
   padding: 10px;
 }
 
 .menu span {
+  color: white;
+}
+
+.menu .allergene {
   color: blue;
+  text-decoration: underline;
 }
 
 .menu img {
@@ -207,28 +227,39 @@ nav {
   margin: 10px;
 }
 
-.pictures {
+.menu li {
+  color: black;
+}
+
+.gallerie {
   background-color: rgba(0, 0, 0, 0.829);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  line-height: 8rem;
   color: whitesmoke;
+  height: 680px;
 }
 
-.pictures button {
-  height: 5rem;
-}
-
-.pictures h4 {
+.gallerie h4 {
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
-.pictures img {
-  height: 100%;
-  width: 100%;
+.gallerie img {
+  border: 2px solid whitesmoke;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  height: 400px;
+}
+
+.d-block {
+  margin-bottom: 1rem;
+}
+
+.pagination {
+  margin-top: 3rem;
   margin-bottom: 3rem;
-  border: 3px solid whitesmoke;
 }
 
 .contact {
