@@ -4,6 +4,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'B612', sans-serif;
+  overflow: hidden;
 }
 
 nav {
