@@ -1,5 +1,5 @@
 body {
-  background-image: url("/assets/img/bg_body.jpg");
+  background-image: url("../img/bg_body.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,7 +13,7 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("/assets/img/bg_jumbotron.jpg");
+  background-image: url("../img/bg_jumbotron.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
