@@ -45,5 +45,5 @@ This exercise consist in creating a webpage for a restaurant using Bootstrap.
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif" height="50%" width="50%">
+<img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif" height="50%" width="70%">
 </p>
