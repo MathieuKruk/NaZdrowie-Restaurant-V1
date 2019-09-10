@@ -2,7 +2,7 @@
 
 <p align="center">3rd week at BeCode:</p>
 
-This exercise consist in creating a webpage for a restaurant using Bootstrap.
+<p align="center">Exercise about creating a webpage for a restaurant using Bootstrap.</p>
 
 <h2>The website must contain:</h2>
 <ul>
