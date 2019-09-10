@@ -18,7 +18,7 @@ This exercise consist in creating a webpage for a restaurant using Bootstrap.
 <h2>The website is actually responsive for smartphone and tablets only, large display in progress.</h2>
 </br>
 
-<h2>Here you'll find all the urls of free rights pictures that i have used</h2>
+<h2>Pictures links list:</h2>
 <ul>
   <li>https://www.maxpixel.net/static/photo/2x/Mountain-Peak-Mountain-Winter-Snow-Cold-Jungfrau-3092477.jpg</li>
   <li>https://images.unsplash.com/photo-1522395840258-4bbb8e60cdb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80</li>
