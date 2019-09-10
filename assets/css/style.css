@@ -294,4 +294,9 @@ nav {
   padding: 1rem;
   margin: 1rem;
 }
+
+.contact label {
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
 /*# sourceMappingURL=style.css.map */
