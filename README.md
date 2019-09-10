@@ -15,7 +15,7 @@ This exercise consist in creating a webpage for a restaurant using Bootstrap.
 </ul>
 
 <br>
-<h2>!!!The website is actually responsive for <u>smartphone</u> and <u>tablets</u> only, large display in progress!!!</h2>
+<h2>!!!The website is actually responsive for [SMARTPHONES] and [TABLETS] only, large display in progress!!!</h2>
 </br>
 
 <h2>Pictures links list:</h2>
@@ -45,5 +45,5 @@ This exercise consist in creating a webpage for a restaurant using Bootstrap.
 <br>
 
 <p align="center">
-<img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif">
+<img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif" height="50%" width="50%">
 </p>
