@@ -25,7 +25,7 @@ nav {
 .jumbotron .text {
   background-color: rgba(0, 0, 0, 0.753);
   border: 3px solid whitesmoke;
-  border-radius: 10% / 15%;
+  border-radius: 10% / 90%;
   color: whitesmoke;
   padding: 0.5rem;
 }
@@ -70,7 +70,6 @@ nav {
 }
 
 .events img {
-  width: 95%;
   border: 3px solid whitesmoke;
   margin: 10px;
 }
@@ -110,6 +109,12 @@ nav {
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
   margin-top: 2rem;
+}
+
+.row {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 10px;
 }
 
 .aboutus {
@@ -254,10 +259,20 @@ table .days {
 
 .gallerie img {
   border: 2px solid whitesmoke;
-  display: block;
-  margin-right: auto;
-  margin-left: auto;
-  height: 400px;
+  margin-bottom: 1rem;
+}
+
+.pictures {
+  background-color: rgba(255, 255, 255, 0.507);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: whitesmoke;
+}
+
+.pictures img {
+  margin: 2rem;
+  border: 1px solid black;
 }
 
 .d-block {
@@ -305,5 +320,13 @@ table .days {
 .contact label {
   padding-top: 15px;
   padding-bottom: 10px;
+}
+
+i {
+  color: rgba(255, 255, 255, 0.445);
+}
+
+i:hover {
+  color: rgba(255, 255, 255, 0.993);
 }
 /*# sourceMappingURL=style.css.map */
