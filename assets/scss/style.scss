@@ -7,10 +7,12 @@ body {
     background-size: cover;
     font-family: 'B612', sans-serif;
 }
+
 nav {
     position: relative;
     position: sticky;
 }
+
 .jumbotron {
     background-image: url("../img/bg_jumbotron.jpg");
     background-position: center;
@@ -22,11 +24,12 @@ nav {
     .text {
         background-color: rgba(0, 0, 0, 0.753);
         border: 3px solid whitesmoke;
-        border-radius: 10% / 15%;
+        border-radius: 10% / 90%;
         color: whitesmoke;
         padding: 0.5rem;
     }
 }
+
 .suggestion {
     background-color: rgba(0, 0, 0, 0.829);
     background-position: center;
@@ -47,6 +50,7 @@ nav {
         border: 3px solid whitesmoke;
     }
 }
+
 .events {
     background-color: rgba(0, 0, 0, 0.829);
     color: whitesmoke;
@@ -59,11 +63,11 @@ nav {
         padding: 2rem 2rem 2rem 0rem;
     }
     img {
-        width: 95%;
         border: 3px solid whitesmoke;
         margin: 10px;
     }
 }
+
 .social {
     background-color: rgba(0, 0, 0, 0.829);
     color: whitesmoke;
@@ -85,16 +89,23 @@ nav {
         width: 60px !important;
     }
 }
+
 .copyright {
     background-color: rgba(0, 0, 0, 0.829);
     color: whitesmoke;
     line-height:  2.5rem;
     width: 100%;
 }
+
 .carousel-control-prev-icon, .carousel-control-next-icon {
     margin-top: 2rem;
 }
 
+.row {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 10px;
+}
 //* RESTAURANT PAGE *//
 
 .aboutus {
@@ -220,12 +231,22 @@ table {
     }
     img {
         border: 2px solid whitesmoke;
-        display: block;
-        margin-right: auto;
-        margin-left: auto;
-        height: 400px;
+        margin-bottom: 1rem;
     }
 }
+
+.pictures {
+    img {
+        margin: 2rem;
+        border: 1px solid black;
+    }
+    background-color: rgba(255, 255, 255, 0.507);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: whitesmoke;
+}
+
 .d-block {
     margin-bottom: 1rem;
 }
@@ -266,4 +287,11 @@ table {
         padding-top: 15px;
         padding-bottom: 10px;
     }
+}
+i {
+    color: rgba(255, 255, 255, 0.445);
+}
+
+i:hover {
+    color: rgba(255, 255, 255, 0.993);
 }
