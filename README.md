@@ -18,12 +18,8 @@
 <ul>
     <li>Gallery section: structuring the display, pictures resizing</li><br>
     <li>Restaurant section: Filling the Lorem Ipsum and resizing the google map api.</li><br>
+    <li>Increasing the responsivness in desktop mod.</li><br>
 </ul>
-
-
-<br>
-<h2>!!!The website is actually responsive for [SMARTPHONES] and [TABLETS] only, large display in progress!!!</h2>
-</br>
 
 <h2>Pictures links list:</h2>
 <ul>
