@@ -1,6 +1,6 @@
 # Restaurant website:
 
-<p align="center">§ 3rd week at BeCode §</p>
+<p align="center">3rd week at BeCode</p>
 
 <p align="center">= Exercise about creating a webpage for a restaurant using Bootstrap =</p>
 
