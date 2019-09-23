@@ -14,6 +14,13 @@
   options), an area for the message itself and a send button with an icon. Each entry as a title in a semantically correct tag.</li>
 </ul>
 
+<h2>Still working on:</h2>
+<ul>
+    <li>Gallery section: structuring the display, pictures resizing</li><br>
+    <li>Restaurant section: Filling the Lorem Ipsum and resizing the google map api.</li><br>
+</ul>
+
+
 <br>
 <h2>!!!The website is actually responsive for [SMARTPHONES] and [TABLETS] only, large display in progress!!!</h2>
 </br>
