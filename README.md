@@ -9,7 +9,7 @@
 ℹ️ Development started on 06/12/2019.
 
 <p align="center">
-  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fthealpineblog.files.wordpress.com%2F2015%2F07%2F1-stunnig-double-height-living-room.jpg">
+  <img src="https://browse.startpage.com/do/show_picture.pl?l=english&rais=1&oiu=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fc0%2Fcc%2F0c%2Fc0cc0c25e7b14137872912f4e6aeab2a.jpg&sp=5b31d6ea78d8f06127b914e0e09eb2cc&t=dark">
 </p>
 
 <br>
