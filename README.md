@@ -1,19 +1,19 @@
 # Na Zdrowie Restaurant 🍽️
 
+## ◾ Features
+
 <ul>
   <li>Na Zdrowie is a dynamic website made for a fictional restaurant.</li>
   <li>The goal of the website is to provide a better visibility and increase the communication</li>
 </ul>
 
-ℹ️ Development started on 06/09/2019.
+<hr>
 
 <p align="center">
   <img src="http://www.banffparklodge.com/themes/site_themes/lodge/images/dining_slider/HomePage-Slider_0007_chinook-restaurant.jpg">
 </p>
 
-<br>
 <hr>
-<br>
 
 ## ◾ Motivation
 
@@ -86,9 +86,7 @@ make it as beautiful as possible.
 
 ▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️▪️
 
-<br>
 <hr>
-<br>
 
 ## ◾ Tasks
 
@@ -98,9 +96,7 @@ make it as beautiful as possible.
 
 ℹ️ For further informations, please make sure to visit my **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
-<br>
 <hr>
-<br>
 
 ## ◾ Build status
 
@@ -111,9 +107,7 @@ Logs
    - First version of a global css look.
    - ...
 
-<br>
 <hr>
-<br>
 
 ## ◾ Screenshots
 
@@ -121,9 +115,8 @@ Logs
 <p align="center">
   <img src="apiArchitecture.jpg">
 </p>
-<br>
+
 <hr>
-<br>
 
 ## ◾ Tech/framework used
 
@@ -135,28 +128,11 @@ Logs
      - [Express.js](https://expressjs.com/)
      - [Socket.io](https://socket.io/)
 
-<br>
 <hr>
-<br>
 
 ## ◾ API Reference
 
-<br>
 <hr>
-<br>
-
-## ◾ Features
-
-<ul>
-  <li>Real-time Chatbox</li>
-  <li>Pre-organized channels</li>
-  <li></li>
-  <li></li>
-</ul>
-
-<br>
-<hr>
-<br>
 
 ## ◾ Code Example
 
@@ -165,25 +141,20 @@ function test() {
   console.log("This is a test for code input?");
 }
 ```
-<br>
+
 <hr>
-<br>
 
 ## ◾ Credits
 
 [Mathieu Kruk](https://github.com/MathieuKruk)
 
-<br>
 <hr>
-<br>
 
 ## ◾ License
 
 OpenSource | Free
 
-<br>
 <hr>
-<br>
 
 ✍️ Readme Author: Mathieu Kruk 
 <p align="center">
