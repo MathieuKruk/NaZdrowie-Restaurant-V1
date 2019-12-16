@@ -1,9 +1,8 @@
 # Na Zdrowie Restaurant:
 
 <ul>
-  <li>Real-time chat is a dynamic website application.</li>
-  <li>It provides a secure and anonymous chat service that respects the user privacy.</li>
-  <li>It has been developed especially for the urban culture.</li>
+  <li>Na Zdrowie is a dynamic website application made for a fictionnal restaurant.</li>
+  <li>It provides a good visibility for customers</li>
 </ul>
 
 ℹ️ Development started on 06/09/2019.
@@ -94,10 +93,10 @@ make it as beautiful as possible.
 ## ◾ Tasks
 
 - [x] Initialize the ReadMe and the trello.
-- [x] Work on the main project.
+- [x] First static version of the website.
 - [ ] Launch the app.
 
-ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
+ℹ️ For further informations, please make sure to visit my **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
 
 <br>
 <hr>
@@ -108,8 +107,8 @@ make it as beautiful as possible.
 📲 V1.0.1
 Logs
    - Readme initialized.
-   - ...
-   - ...
+   - Basic static structure.
+   - First version of a global css look.
    - ...
 
 <br>
@@ -129,7 +128,6 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
-   - [Vue.js](https://vuejs.org/)
    - [Bootstrap](https://getbootstrap.com/)
    
 2. Back-end
