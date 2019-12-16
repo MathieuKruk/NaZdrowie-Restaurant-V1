@@ -1,8 +1,8 @@
 # Na Zdrowie Restaurant 🍽️
 
 <ul>
-  <li>Na Zdrowie is a dynamic website application made for a fictional restaurant.</li>
-  <li>It provides a good visibility for customers</li>
+  <li>Na Zdrowie is a dynamic website made for a fictional restaurant.</li>
+  <li>The goal of the website is to provide a better visibility and increase the communication</li>
 </ul>
 
 ℹ️ Development started on 06/09/2019.
