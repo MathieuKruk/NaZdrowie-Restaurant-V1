@@ -130,10 +130,6 @@ Logs
 
 <hr>
 
-## ◾ API Reference
-
-<hr>
-
 ## ◾ Code Example
 
 ```
