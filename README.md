@@ -1,4 +1,4 @@
-# ◼️ OurStreets Chat:
+# Na Zdrowie Restaurant:
 
 <ul>
   <li>Real-time chat is a dynamic website application.</li>
