@@ -9,7 +9,7 @@
 ℹ️ Development started on 06/12/2019.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif">
+  <img src="https://s14-eu5.startpage.com/cgi-bin/serveimage?url=https:%2F%2Fthealpineblog.files.wordpress.com%2F2015%2F07%2F1-stunnig-double-height-living-room.jpg&sp=c9fb34fb3900416e9288869fc6b3b70f">
 </p>
 
 <br>
@@ -190,3 +190,6 @@ OpenSource | Free
 <br>
 
 ✍️ Readme Author: Mathieu Kruk 
+<p align="center">
+  <img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif">
+</p>
