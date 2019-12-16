@@ -6,7 +6,7 @@
   <li>It has been developed especially for the urban culture.</li>
 </ul>
 
-ℹ️ Development started on 06/12/2019.
+ℹ️ Development started on 06/09/2019.
 
 <p align="center">
   <img src="http://www.banffparklodge.com/themes/site_themes/lodge/images/dining_slider/HomePage-Slider_0007_chinook-restaurant.jpg">
