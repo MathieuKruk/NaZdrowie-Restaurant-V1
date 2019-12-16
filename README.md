@@ -1,4 +1,4 @@
-# Na Zdrowie Restaurant:
+# Na Zdrowie Restaurant 🍽️
 
 <ul>
   <li>Na Zdrowie is a dynamic website application made for a fictional restaurant.</li>
