@@ -111,7 +111,7 @@ Logs
 
 ## ◾ Screenshots
 
-### Api architecture
+### Main Page
 <p align="center">
   <img src="apiArchitecture.jpg">
 </p>
