@@ -1,70 +1,192 @@
-# Restaurant website:
-
-<p align="center">3rd week at BeCode</p>
-
-<br>
-<hr>
-<br>
-
-<p align="center">◽️ Exercise about creating a webpage for a restaurant using Bootstrap ◽️</p>
-
-<br>
-<hr>
-<br>
-
-<h2>⬛️ The website must contain:</h2>
+# ◼️ OurStreets Chat:
 
 <ul>
-  <li>One Welcome page with one Jumbotron and two panels to show news (promo, events, etc…​).</li><br>
-  <li>One Menu page with the restaurant menu in the form of a grouped list with badges.</li><br>
-  <li>One Pictures page with a gallery of minimum 10 pictures and a pagination (3 photos per page).</li><br>
-  <li>One Restaurant page about the restaurants (it’s a franchise) with its addresses, a map, and different schedules.</li><br>
-  <li>One Contact page with a contact form containing the firstname, lastname, email, subject of the message (a drop-down list with multiple 
-  options), an area for the message itself and a send button with an icon. Each entry as a title in a semantically correct tag.</li>
+  <li>Real-time chat is a dynamic website application.</li>
+  <li>It provides a secure and anonymous chat service that respects the user privacy.</li>
+  <li>It has been developed especially for the urban culture.</li>
 </ul>
 
-<br>
-<hr>
-<br>
-
-<h2>⬛️ Still working on:</h2>
-
-<ul>
-    <li>Gallery section: structuring the display, pictures resizing</li><br>
-    <li>Restaurant section: Filling the Lorem Ipsum and resizing the google map api.</li><br>
-    <li>Increasing the responsivness in desktop mod.</li><br>
-</ul>
-
-<br>
-<hr>
-<br>
-
-<h2>⬛️ Pictures links list:</h2>
-
-<ul>
-  <li>https://www.maxpixel.net/static/photo/2x/Mountain-Peak-Mountain-Winter-Snow-Cold-Jungfrau-3092477.jpg</li>
-  <li>https://images.unsplash.com/photo-1522395840258-4bbb8e60cdb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80</li>
-  <li>https://live.staticflickr.com/2645/3831978287_61659df56f_b.jpg</li>
-  <li>https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%C5%BBywno%C5%9B%C4%87_-_032.JPG/769px-%C5%BBywno%C5%9B%C4%87_-_032.JPG</li>
-  <li>https://cdn.pixabay.com/photo/2016/04/14/18/55/healthy-regional-dishes-1329449_1280.jpg</li>
-  <li>https://cdn.pixabay.com/photo/2014/11/24/22/35/potato-pancakes-544701_960_720.jpg</li>
-  <li>https://upload.wikimedia.org/wikipedia/commons/0/09/Borscht_with_cream.jpg</li>
-  <li>https://cdn.pixabay.com/photo/2015/12/25/20/10/christmas-cakes-1107927_1280.jpg</li>
-  <li>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Oscypki.jpg/682px-Oscypki.jpg</li>
-  <li>https://upload.wikimedia.org/wikipedia/commons/c/c8/%C5%9Aliwowice.jpg</li>
-  <li>https://cdn.pixabay.com/photo/2015/11/05/11/15/beer-1024065_960_720.jpg/li>
-  <li>https://live.staticflickr.com/3503/5805548247_b8a9cc7e2e_b.jpg</li>
-  <li>https://www.maxpixel.net/static/photo/2x/Sky-Poland-Landscape-Clouds-Dusk-Mountains-Sunset-2380290.jpg</li>
-  <li>https://live.staticflickr.com/5214/5521405339_7d643005f6_b.jpg</li>
-  <li>https://live.staticflickr.com/3298/3526070331_fee604c22d_b.jpg</li>
-  <li>https://images.unsplash.com/photo-1513885535751-8b9238bd345a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80</li>
-  <li>https://images.unsplash.com/photo-1482330454287-3cf6611d0bc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80</li>
-</ul>
-
-<br>
-<hr>
-<br>
+ℹ️ Development started on 06/12/2019.
 
 <p align="center">
-<img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif" height="50%" width="70%">
+  <img src="https://media.giphy.com/media/W22ZPzZSDMVdWIXcrc/giphy.gif">
 </p>
+
+<br>
+<hr>
+<br>
+
+## ◾ Motivation
+
+It has been launch the 06/09/2019 in the case of a school project (<a href="https://github.com/becodeorg" target="_blank">BeCode</a>).
+
+Below, you will find our guidelines hosted on the school repo: 
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+== Missions objectives
+
+At the end of this challenge you should have improved your:
+
+* placement of element with *Bootstrap*
+
+
+== The mission
+
+Create a repository called _restaurant-css-framework_ in which you must realise
+a window web page for a restaurant. The franchise is fictive, but the type of
+food (burger, pizza, asian, ...) is your choice.
+
+The website must be *responsive*, at least for small and medium screens. It must
+at least have five accessible pages: welcome, menu, pictures, restaurants and
+contact.
+
+.Welcome
+A page with one _Jumbotron_ and two panels to show news (promo, events, etc...).
+
+.Menu
+A page with the restaurant menu in the form of a grouped list with badges.
+
+.Pictures
+A page with a gallery of minimum 10 pictures and a pagination (3 photos per
+page).
+
+.Restaurant
+A page about the restaurants (it's a franchise) with its addresses, a map, and
+different schedules.
+
+.Contact
+A page with a contact form containing the firstname, lastname, email, subject of
+the message (a drop-down list with multiple options), an area for the message
+itself and a send button with an icon. Each entry as a title in a semantically
+correct tag.
+
+If you want to make an even more complex website feel free to try new things and
+make it as beautiful as possible.
+
+=== Instructions
+* create the repository
+* write a good *README*
+* don't use a pre-made theme
+* mention a description and the website URL on the top of the repo
+* use ONLY royalty-free pictures AND credit in your readme the website where the pictures are from
+
+=== Advices
+
+. Read the instructions well.
+. Take time to prepare (prototype, content, pictures, ...).
+. Go step by step, *HTML*, then *classes* and *id* and finally *CSS*.
+
+=== Optional
+
+* use *SASS*
+
+=== Resources
+
+* https://tinyurl.com/y2nlxere[README]
+* http://glyphicons.com/[glyphicons]
+
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+<br>
+<hr>
+<br>
+
+## ◾ Tasks
+
+- [x] Initialize the ReadMe and the trello.
+- [x] Work on the main project.
+- [ ] Launch the app.
+
+ℹ️ For further informations, please make sure to visit our **Trello** [board](https://trello.com/b/NSohfKPi/real-time-chat) (only in french).
+
+<br>
+<hr>
+<br>
+
+## ◾ Build status
+
+📲 V1.0.1
+Logs
+   - Readme initialized.
+   - ...
+   - ...
+   - ...
+
+<br>
+<hr>
+<br>
+
+## ◾ Screenshots
+
+### Api architecture
+<p align="center">
+  <img src="apiArchitecture.jpg">
+</p>
+<br>
+<hr>
+<br>
+
+## ◾ Tech/framework used
+
+1. Front-end
+   - [Vue.js](https://vuejs.org/)
+   - [Bootstrap](https://getbootstrap.com/)
+   
+2. Back-end
+   - [Node.js](https://nodejs.org/en/)
+     - [Express.js](https://expressjs.com/)
+     - [Socket.io](https://socket.io/)
+
+<br>
+<hr>
+<br>
+
+## ◾ API Reference
+
+<br>
+<hr>
+<br>
+
+## ◾ Features
+
+<ul>
+  <li>Real-time Chatbox</li>
+  <li>Pre-organized channels</li>
+  <li></li>
+  <li></li>
+</ul>
+
+<br>
+<hr>
+<br>
+
+## ◾ Code Example
+
+```
+function test() {
+  console.log("This is a test for code input?");
+}
+```
+<br>
+<hr>
+<br>
+
+## ◾ Credits
+
+[Mathieu Kruk](https://github.com/MathieuKruk)
+
+<br>
+<hr>
+<br>
+
+## ◾ License
+
+OpenSource | Free
+
+<br>
+<hr>
+<br>
+
+✍️ Readme Author: Mathieu Kruk 
