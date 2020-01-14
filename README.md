@@ -10,7 +10,7 @@
 <hr>
 
 <p align="center">
-  <img src="screenshoots/mountain3.jpg">
+  <img src="screenshoots/snow.jpg">
 </p>
 
 <hr>
