@@ -129,8 +129,10 @@ Logs
 ## ◾ Tech/framework used
 
 1. Front-end
-   - [Bootstrap](https://getbootstrap.com/)
+   - [HTML](https://www.w3.org/html/)
    - [Sass](https://sass-lang.com/)
+   - [Bootstrap](https://getbootstrap.com/)
+   - [Font Awesome 4.7](https://fontawesome.com/v4.7.0/)
 
 <hr>
 
