@@ -138,9 +138,32 @@ Logs
 
 ## ◾ Code Example
 
-### code:
+### List of menus:
 ```
-
+<!-- Menus list -->
+<div class="menu row text-center border border-white rounded-lg">
+ <div class="col-12">
+  <h4>Menus of the month:</h4>
+   <ul class="list-group">
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+     <h6>Żurek & Pierogi ruskie</h6>
+     <span class="badge badge-primary badge-pill">12 €</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+     <h6>Zupa ogórkowa & Bigos</h6>
+     <span class="badge badge-primary badge-pill">10 €</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+     <h6>Barszcz czerwony & Schabowy z ziemniakami i kapustą</h6>
+     <span class="badge badge-primary badge-pill">12 €</span>
+    </li>
+    <li class="list-group-item d-flex justify-content-between align-items-center">
+     <h6>Rosół & Chleb ze smalcem</h6>
+     <span class="badge badge-primary badge-pill">8 €</span>
+    </li>
+  </ul>		
+ </div>
+</div>
 ```
 
 <hr>
