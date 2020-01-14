@@ -4,7 +4,7 @@
 
 <ul>
   <li>Na Zdrowie is a static website made for a fictional restaurant.</li>
-  <li>It tries to provide a better visibility and increase the communication</li>
+  <li>It tries to provide a better visibility and increase the reastauran's communication.</li>
 </ul>
 
 <hr>
